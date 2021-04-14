@@ -1,12 +1,12 @@
 # ChitChat
 
 ChitChat is a simple chatting appliaction developed using Android Studio and Firebase Authentication, Storage and Realtime Database
-It has the following functionalities
-a. register using email and password
-b. login with registered id
-c. chat with registered ids
-d. change profile photo
-e. see online/offline status
+It has the following functionalities <br />
+a. register using email and password <br />
+b. login with registered id <br />
+c. chat with registered ids <br />
+d. change profile photo <br />
+e. see online/offline status <br />
 f. get notifications
 
 <br />
